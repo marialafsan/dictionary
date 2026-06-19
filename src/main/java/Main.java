@@ -12,16 +12,17 @@ public class Main {
     public static void main (String[] args){
 
         /*
-        Sample program to check configuration.
+        Sample program to check if SimpleDictionary class works
          */
 
-        Scanner scanner = new Scanner (System.in);
-        String name;
+        SimpleDictionary testDictionary = new SimpleDictionary();
+        testDictionary.add("one", "uno");
+        testDictionary.add("two", "dos");
 
-        System.out.println("Name?");
-        name = scanner.nextLine();
-
-        System.out.println("Hello, " + name + "!!!");
+        System.out.println("one \n- translation: " + testDictionary.translate("one") + "\n");
+        System.out.println("two \n - translation: " + testDictionary.translate("two") + "\n");
+        System.out.println("three \n - translation: " + testDictionary.translate("three") + "\n");
+        System.out.println("dos \n - translation: " + testDictionary.translate("dos") + "\n");
 
     }
 
