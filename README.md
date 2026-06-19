@@ -2,7 +2,7 @@
 
 # dictionary
 
-This project implements a simple dictionary that maps words to their translations in other languages, using hashmaps to allow an easier search.
+This project implements a simple dictionary that maps words to their translations in other languages, using hashmaps to allow for an easier search.
 
 
 ## Why
