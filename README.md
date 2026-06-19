@@ -19,9 +19,9 @@ This project implements a simple dictionary that maps words to their translation
 
 ### *Feature Implementations*
 
-- [x] Setting up the repository
-- [x] Layout of *README.md*
-- [ ] Creation of **SimpleDictionary** class
+>- [x] Setting up the repository
+>- [x] Layout of *README.md*
+>- [x] Creation of **SimpleDictionary** class
 - [ ] Creation of **TextUI** class > Simple user interface implementation
   - **First MVP** (*Minimum Viable Product*)
 - [ ] Functionality > **Adding a translation**
