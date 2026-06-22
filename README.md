@@ -7,7 +7,7 @@ This project implements a simple dictionary that maps words to their translation
 
 ## Documentation
 
-📖 [View the Javadoc](https://marialafsan.github.io/dictionary/)
+📖 [Javadoc](https://marialafsan.github.io/dictionary/)
 
 
 ## Why
