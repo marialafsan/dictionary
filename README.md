@@ -5,6 +5,11 @@
 This project implements a simple dictionary that maps words to their translations in other languages, using hashmaps to allow for an easier search.
 
 
+## Documentation
+
+📖 [View the Javadoc](https://marialafsan.github.io/dictionary/)
+
+
 ## Why
 
 **Hands-on project** built to practice and demonstrate:
