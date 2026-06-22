@@ -22,10 +22,10 @@ This project implements a simple dictionary that maps words to their translation
 >- [x] Setting up the repository
 >- [x] Layout of *README.md*
 >- [x] Creation of **SimpleDictionary** class
-- [ ] Creation of **TextUI** class > Simple user interface implementation
-  - **First MVP** (*Minimum Viable Product*)
-- [ ] Functionality > **Adding a translation**
-- [ ] Functionality > **Translating a word**
+>- [x] Creation of **TextUI** class > Simple user interface implementation
+>- [x] Functionality > **Adding a translation**
+>- [x] Functionality > **Translating a word**
+>- [x] **First MVP** (*Minimum Viable Product*)
 
 ### *Enhancements*
 
