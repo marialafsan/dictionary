@@ -7,7 +7,7 @@ This project implements a simple dictionary that maps words to their translation
 
 ## Documentation
 
-📖 [View the Javadoc](https://marialafsan.github.io/dictionary/)
+📖 [Javadoc](https://marialafsan.github.io/dictionary/)
 
 
 ## Why
@@ -24,18 +24,18 @@ This project implements a simple dictionary that maps words to their translation
 
 ### *Feature Implementations*
 
->- [x] Setting up the repository
->- [x] Layout of *README.md*
->- [x] Creation of **SimpleDictionary** class
->- [x] Creation of **TextUI** class > Simple user interface implementation
->- [x] Functionality > **Adding a translation**
->- [x] Functionality > **Translating a word**
->- [x] **First MVP** (*Minimum Viable Product*)
+- [x] Setting up the repository
+- [x] Layout of *README.md*
+- [x] Creation of **SimpleDictionary** class
+- [x] Creation of **TextUI** class > Simple user interface implementation
+- [x] Functionality > **Adding a translation**
+- [x] Functionality > **Translating a word**
+- [x] **First MVP** (*Minimum Viable Product*)
 
 ### *Enhancements*
 
-- [ ] Cleaning up the output of **TextUI**
-- [ ] Menu and options for a cleaner version and allow for a smoother user experience
+- [x] Cleaning up the output of **TextUI**
+- [x] Menu and options for a cleaner version and allow for a smoother user experience
 
 
 
