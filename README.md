@@ -1,6 +1,6 @@
 
 
-# dictionary
+# Dictionary
 
 This project implements a Java-based translation dictionary that maps words to their translations in other languages, using hashmaps to allow for an easier search, through a clean text-based user interface.
 
